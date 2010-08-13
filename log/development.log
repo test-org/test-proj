@@ -1,0 +1,9 @@
+
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-19 10:50:38) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
